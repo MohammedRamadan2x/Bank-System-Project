@@ -44,5 +44,3 @@ Designed with **modularity**, **extensibility**, and **clean separation of respo
 - **Paradigm:** Object-Oriented Programming (OOP)  
 - **Storage:** Local File System (no external databases)  
 - **Development Environment:** Visual Studio Community
-   ```bash
-   git clone https://github.com/YourUsername/Bank-System.git
